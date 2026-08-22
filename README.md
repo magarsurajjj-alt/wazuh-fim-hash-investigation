@@ -20,19 +20,6 @@ This project simulates a FIM lab environment where files under a monitored direc
   - One-click copy of hash values
 - Additional simulated modules: Configuration assessment, Malware detection, Vulnerability detection, MITRE ATT&CK, Security operations, Cloud security, Agents management, Rules, Settings
 
-## Usage
-
-1. Clone or download this repository.
-2. Open `wazuh_dashboard.html` in any modern web browser — no server or build step required.
-3. Navigate to **Endpoint security → File Integrity Monitoring** to view events and run hash investigations.
-
-## Project structure
-
-```
-.
-├── wazuh_dashboard.html   # Main dashboard application
-└── README.md
-```
 
 ## Background: how FIM hash comparison works
 
